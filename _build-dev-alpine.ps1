@@ -1,0 +1,1 @@
+docker build --rm -t certificates-generator:1.0.0 docker/dev-alpine

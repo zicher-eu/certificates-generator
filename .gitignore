@@ -1,0 +1,4 @@
+/certificates/root/*
+!/certificates/root/.gitignore
+/certificates/self-signed/*
+!/certificates/self-signed/.gitignore
