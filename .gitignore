@@ -2,3 +2,5 @@
 !/certificates/root/.gitignore
 /certificates/self-signed/*
 !/certificates/self-signed/.gitignore
+snippet.*.ps1
+.env.*
